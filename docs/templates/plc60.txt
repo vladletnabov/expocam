@@ -1,0 +1,52 @@
+	<h2 align="left">Экспонирующая камера PLC-60</h2>
+<p align="justify">Идеальная модель  - <strong>PLC-60</strong>. 
+Представляем вам новую версию хорошо зарекомендовавшей себя в прошлый кризис серии моделей PLС. Однако прогресс не стоит на месте и сегодня мы кардинально переработали её. Новый абсолютно жесткий корпус из современного композитного материала - металлизированного пластика, который не боится нагрева или падения. Учтены технологические особенности, связанные с прогревом рабочего объёма и изменение времени засветки. Был установлен вентилятор и по-этому температура внутри камеры всегда стабильна вне зависимости от времени эксплуатации.
+Выдвижной ящик имеет как упор ограничивающий выдвижение, так и ограничитель чтобы ящик не наклонялся при вытаскивании, четко вымеренное расстояние между лампами и их правильное позиционирование над стеклами позволяет правильно и равномерно засвечивать полимер. Проверенный таймер так же элемент привычного комфорта и стабильности работы. Как приятный элемент общения с прибором, добавлена такая мелочь, как регулируемые по высоте ножки.<p>
+
+<p align="justify">В рамках гарантийных обязательств предусмотрена возможность предоставления подменной камера на время ремонта, если ваша по какой-то причине сломалась. Гарантия на камеру 1 год. На лампы 6 месяцев.</p>
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="150" background="/images/plc60-6.jpg" class="norepeat">&nbsp;</td>
+  </tr>
+</table>
+
+
+<br clear="all">
+<table width="100%" border="1" align="center" cellpadding="2" cellspacing="0" bordercolor="#FFFFFF" bordercolorlight="#CCCCCC" bordercolordark="#FFFFFF">
+  <tr bgcolor="#CCCCCC">
+    <td width="80%" height="25"><div align="center" class="lrBlockText">Характеристики экспонирующей камеры PLC-60</div></td>
+    <td width="20%" height="25"><div align="center" class="lrBlockText">Значение</div></td>
+  </tr>
+
+  <tr bgcolor="#F5F5F5">
+    <td width="80%" height="20"><div align="left">Мощность засветки (ватт)</div></td>
+    <td width="20%" height="20"><div align="center">4 x 15W</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="80%" height="20"><div align="left">Корпус "жесткий кейс"</div></td>
+    <td width="20%" height="20"><div align="center">+</div></td>
+  </tr>
+  <tr bgcolor="#F5F5F5">
+    <td width="80%" height="20"><div align="left">Электронный пуск</div></td>
+    <td width="20%" height="20"><div align="center">+</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="80%" height="20"><div align="left">Цифровой таймер с ЖКИ</div></td>
+    <td width="20%" height="20"><div align="center"><strong>встроенный</strong></div></td>
+  </tr>
+  <tr bgcolor="#F5F5F5">
+    <td width="80%" height="20"><div align="left">Световая сигнализация окончания процесса</div></td>
+    <td width="20%" height="20"><div align="center">+</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="80%" height="20"><div align="left">Звуковая сигнализация окончания процесса</div></td>
+    <td width="20%" height="20"><div align="center">-</div></td>
+  </tr>
+  <tr bgcolor="#F5F5F5">
+    <td width="80%" height="20"><div align="left"><strong>Цена (руб)</strong></div></td>
+    <td width="20%" height="20"><div align="center"><strong>8000</strong></div></td>
+  </tr>
+</table>
+
+
+<br clear="all">

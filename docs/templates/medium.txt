@@ -1,0 +1,52 @@
+	<h2 align="left">Экспонирующая камера Easy Stamp Medium</h2>
+<p align="justify"><strong>Экспонирующая камера Easy Stamp Medium</strong> - 
+аналогична по размерам Easy Stamp Lite, но имеет внешний цифровой таймер. В связи с чем вполне
+пригодна для регулярного использования. 
+При помощи этой модели экспонирующей камеры за один рабочий день можно
+ изготовить несколько сотен печатей!
+</p>
+<table width="100%"  border="0" cellspacing="0" cellpadding="0" style="overflow:auto">
+  <tr>
+    <!--<td height="150" background="imgfiles/4x_EasyStamp_green.jpg" class="norepeat"></td>-->
+	<td height="150" background="/images/easy-stamp-medium.jpg" class="norepeat">
+	
+  </tr>
+</table>
+
+<br clear="all">
+<table width="100%" border="1" align="center" cellpadding="2" cellspacing="0" bordercolor="#FFFFFF" bordercolorlight="#CCCCCC" bordercolordark="#FFFFFF">
+  <tr>
+    <td width="80%" height="25" bgcolor="#BDD9CC"><div align="center" class="lrBlockText">Характеристики экспонирующей камеры Easy Stamp Medium</div></td>
+    <td width="20%" height="25" bgcolor="#BDD9CC"><div align="center" class="lrBlockText">Значение</div></td>
+  </tr>
+
+  <tr>
+    <td width="80%" height="20" bgcolor="#ECF4F0"><div align="left">Мощность засветки (ватт)</div></td>
+    <td width="20%" height="20" bgcolor="#ECF4F0"><div align="center">4 x 15W</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="80%" height="20"><div align="left">Корпус "жесткий кейс"</div></td>
+    <td width="20%" height="20"><div align="center">+</div></td>
+  </tr>
+  <tr bgcolor="#ECF4F0">
+    <td width="80%" height="20"><div align="left">Электронный пуск</div></td>
+    <td width="20%" height="20"><div align="center">+</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="80%" height="20"><div align="left">Цифровой таймер с ЖКИ</div></td>
+    <td width="20%" height="20"><div align="center"><strong>встроенный</strong></div></td>
+  </tr>
+  <tr bgcolor="#ECF4F0">
+    <td width="80%" height="20"><div align="left">Световая сигнализация окончания процесса</div></td>
+    <td width="20%" height="20"><div align="center">+</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="80%" height="20"><div align="left">Звуковая сигнализация окончания процесса</div></td>
+    <td width="20%" height="20"><div align="center">-</div></td>
+  </tr>
+  <tr>
+    <td width="80%" height="20" bgcolor="#ECF4F0"><div align="left"><strong>Цена (руб)</strong></div></td>
+    <td width="20%" height="20" bgcolor="#ECF4F0"><div align="center"><strong><!--6500-->8000</strong></div></td>
+  </tr>
+</table>
+<br clear="all">

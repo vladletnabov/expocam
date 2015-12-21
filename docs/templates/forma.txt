@@ -1,0 +1,17 @@
+<SCRIPT language="JavaScript1.2" type="text/javascript">
+function switch_product_page(my_control)
+{
+    var post_value=my_control.options[my_control.selectedIndex].value;
+	if(post_value!="")
+	{
+		//alert(my_control.options[my_control.selectedIndex].value)
+		location=post_value;
+	}
+}
+</SCRIPT>
+	<select  class="lrFormaText" onChange="switch_product_page(this)">
+	  <option value="expocam.html">Выбрать модель...</option>
+	  <option value="expocam_30w.html">Easy Stamp Lite - 30W</option>
+	  <option value="expocam_45w.html">Easy Stamp Medium - 45W</option>
+	  <option value="expocam_60w.html">Easy Stamp Work - 60W</option>
+	</select>

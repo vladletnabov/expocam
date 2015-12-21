@@ -1,0 +1,7 @@
+	<p align="left" class="lrBlockText"><img src="images/strelka.gif" 
+width="10" height="10" hspace="5" border="0" align="baseline"> 
+Оснастка для печатей</p>
+	<p align="left" class="lrBlockText">
+<div align="center"><img src="images/opl.gif" width="150" height="200" border="0"></div><br clear="all">
+
+  <b> <big> от 12 руб. </big></b> </p>

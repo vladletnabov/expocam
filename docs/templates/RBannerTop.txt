@@ -1,0 +1,6 @@
+	<h4 align="left">Новости компании</h4>
+	<p align="left" class="lrBlockText"><img src="images/strelka.gif" width="10" height="10" hspace="5" border="0" align="baseline"> <strong>18.05.15</strong><br>
+	  <a href="http://www.expocam.ru/expocam.html" target="_parent"  class="link">Экспонирующие камеры для тех, кто хочет сэкономить...</a></p>
+	<p align="left" class="lrBlockText"><img src="images/strelka.gif" width="10" height="10" hspace="5" border="0" align="baseline"> <strong>31.02.15</strong><br>
+	  Новые модели экспонирующих камер уже в продаже...</p>
+	<img src="images/grayline.gif" width="220" height="1" vspace="5">

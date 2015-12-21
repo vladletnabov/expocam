@@ -1,0 +1,52 @@
+	<h2 align="left">Экспонирующая камера Easy Stamp Work</h2>
+<p align="justify">Бескомпромиссная модель  - <strong>Easy Stamp Work</strong>. 
+- полноценная камера для повседневной работы.
+ Практически не имеет ограничений по размеру максимально возможного штампа.
+Большая площадь засветки удобна, прежде всего, при изготовлении  крупного тиража печатей или штампов.
+ А так же при изготовлении особо крупных штампов, например для маркировки картонных коробок.</p>
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="150" background="imgfiles/4x_EasyStamp_gray.jpg" class="norepeat">&nbsp;</td>
+  </tr>
+</table>
+
+
+<br clear="all">
+<table width="100%" border="1" align="center" cellpadding="2" cellspacing="0" bordercolor="#FFFFFF" bordercolorlight="#CCCCCC" bordercolordark="#FFFFFF">
+  <tr bgcolor="#CCCCCC">
+    <td width="80%" height="25"><div align="center" class="lrBlockText">Характеристики экспонирующей камеры Easy Stamp Work</div></td>
+    <td width="20%" height="25"><div align="center" class="lrBlockText">Значение</div></td>
+  </tr>
+
+  <tr bgcolor="#F5F5F5">
+    <td width="80%" height="20"><div align="left">Мощность засветки (ватт)</div></td>
+    <td width="20%" height="20"><div align="center">4 x 15W</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="80%" height="20"><div align="left">Корпус "жесткий кейс"</div></td>
+    <td width="20%" height="20"><div align="center">+</div></td>
+  </tr>
+  <tr bgcolor="#F5F5F5">
+    <td width="80%" height="20"><div align="left">Электронный пуск</div></td>
+    <td width="20%" height="20"><div align="center">+</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="80%" height="20"><div align="left">Цифровой таймер с ЖКИ</div></td>
+    <td width="20%" height="20"><div align="center"><strong>встроенный</strong></div></td>
+  </tr>
+  <tr bgcolor="#F5F5F5">
+    <td width="80%" height="20"><div align="left">Световая сигнализация окончания процесса</div></td>
+    <td width="20%" height="20"><div align="center">+</div></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td width="80%" height="20"><div align="left">Звуковая сигнализация окончания процесса</div></td>
+    <td width="20%" height="20"><div align="center">-</div></td>
+  </tr>
+  <tr bgcolor="#F5F5F5">
+    <td width="80%" height="20"><div align="left"><strong>Цена (руб)</strong></div></td>
+    <td width="20%" height="20"><div align="center"><strong>7000</strong></div></td>
+  </tr>
+</table>
+
+
+<br clear="all">

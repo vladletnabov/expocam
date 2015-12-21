@@ -1,0 +1,15 @@
+	<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="10" height="40">&nbsp;</td>
+    <td width="88" height="40">
+		<!-- Картинка счетчика начало -->
+	<noindex>
+<!--LiveInternet logo--><a href="http://www.liveinternet.ru/click" target="_blank"><img src="http://counter.yadro.ru/logo?24.5" title="LiveInternet: показано число посетителей за сегодня" alt="" border=0 width=88 height=15></a><!--/LiveInternet-->
+</noindex>
+<!-- Картинка счетчика конец -->	</td>
+    <td width="0%" height="40" align="center" valign="middle">
+	<p align="center" class="Podvaltext">&copy; <a href="http://www.expocam.ru/" target="_parent" class="Podvaltext">Экспонирующие камеры</a> 2008</p>	</td>
+    <td width="88" height="40">&nbsp;</td>
+    <td width="10" height="40">&nbsp;</td>
+  </tr>
+</table>

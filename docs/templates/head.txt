@@ -1,0 +1,23 @@
+	<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="189" height="74" background="images/head_01.jpg">
+			<!-- Начало счетчика -->
+	<noindex>
+	<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<img src='http://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' width=1 height=1 alt=''>")//--></script><!--/LiveInternet-->
+</noindex>
+	<!-- Конец счетчика -->
+	</td>
+    <td width="%" height="74" background="images/head_02.jpg">&nbsp;</td>
+    <td width="155" height="74" background="images/head_04.jpg"><a href="http://www.expocam.ru/expocam.html" target="_parent"><img src="images/button_expocam.jpg" alt="Экспонирующие камеры" border="0"></a></td>
+    <td width="155" height="74" background="images/head_04.jpg"><a href="http://www.expocam.ru/rm.html" target="_parent"><img src="images/button_mat.jpg" alt="Расходные материалы" width="155" height="74" border="0"></a></td>
+    <td width="155" height="74" background="images/head_04.jpg"><a href="http://www.expocam.ru/info.html" target="_parent"><img src="images/button_info.jpg" alt="Информационные материалы" width="155" height="74" border="0"></a></td>
+    <td width="155" height="74" background="images/head_04.jpg"><a href="http://www.expocam.ru/cont.html" target="_parent"><img src="images/button_cont.jpg" alt="Контакты" width="155" height="74" border="0"></a></td>
+	<td width="4" height="74" background="images/head_02.jpg"></td>
+  </tr>
+</table>
